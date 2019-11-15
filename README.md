@@ -14,7 +14,12 @@ It's a great language to learn, as it is very similar to Python in regards to it
 ## Setting up Python3
 
 To get started working with Python 3, you’ll need to have access to the Python interpreter. There are several common ways to accomplish this:
+[Python3](https://www.python.org/)
+Along with pip:
+[Pip](https://pip.pypa.io/en/stable/installing/)
+
+If you have pip installed use this in the command line to get pytest installed:
 
 ```
-npm install python3
+pip install pytest
 ```
